@@ -1,0 +1,12 @@
+{
+    "domain": "is-pro.dev",
+    "subdomain": "tb",
+    "owner": {
+        "username": "tarikk786786",
+        "email": "princetarikislam@gmail.com"
+    },
+    "records": {
+        "CNAME": "tarikk786786.github.io"
+    },
+    "proxied": false
+}
